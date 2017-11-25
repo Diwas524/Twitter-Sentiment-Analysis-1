@@ -1,0 +1,10 @@
+Twitter Sentiment Analysis
+
+
+Description: Train a model using texts from Twitter to evaluate the sentiment of input texts
+
+* Connected to Twitter API to perform text mining
+* Processed thousands rows of data to desired shape
+* Trained an artificial neural network to create a deep learning model using Tensorflow and Keras
+* Achieved a 80.6% accuracy
+* Built the model on Amazon Web Services using GPU Instances
